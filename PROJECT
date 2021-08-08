@@ -1,0 +1,6 @@
+domain: baetyl.io
+layout:
+- go.kubebuilder.io/v3
+projectName: baetyl-controller
+repo: baetyl-controller
+version: "3"
